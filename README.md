@@ -1,8 +1,8 @@
 ## Giovanni Cortez
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Giovanni Cortez, tenho 19 anos. Atualmente, estou cursando Engenharia de Software. Gosto muito de tecnologia e estou no início da 
-minha jornada. Venho estudando a área Full Stack, principalmente pelo desenvolvimento de jogos em Unity.
+minha jornada. Venho estudando a área FullStack, principalmente pelo desenvolvimento de jogos em Unity.
 
 ### 🤖 Linguagens e Tecnologias
 
